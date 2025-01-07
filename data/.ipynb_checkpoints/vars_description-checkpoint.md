@@ -5,7 +5,7 @@
 - **year**: Year of the article publication.
 - **month**: Month of the article publication.
 - **volume**: Volume of the journal in which the article was published.
-- **issue**: Issue of the journal in which} the article was published.
+- **issue**: Issue of the journal in which the article was published.
 - **jelcodes**: JEL classification codes assigned by the authors.
 - **keywords**: Keywords specified by the authors for the article.
 - **abstract**: Abstract of the article.
